@@ -13,7 +13,7 @@
     background-color: orange;
     margin: 1em auto;
     align-items: center;
-    border:dashed 2px black ;
+    
     padding-left: 1em;
     padding-right: 1em;
 }
@@ -33,7 +33,7 @@ nav {
     height: 2em;
     padding: 0.3em;
     text-align: center;
-    border: dashed 2px black;
+    
 }
 
 header {
@@ -74,4 +74,33 @@ background-color: rgb(181, 210, 236);
     align-items: center;
     justify-content: center;
 
+}
+
+.rosa {
+
+    background-color: rgb(255, 166, 243);
+    width: 15vw;
+    height: 45vh;;
+
+}
+
+.grigia2 {
+
+    display: flex;
+    background-color: rgb(152, 152, 152);
+    width: 100vw;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.verde {
+    background-color: rgb(23, 196, 23);
+    width: 70vw;
+    height: 80vh;;
+}
+
+.dashed {
+    border:dashed 2px black ; 
 }
