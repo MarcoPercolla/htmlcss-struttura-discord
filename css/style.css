@@ -49,3 +49,29 @@ background-color: rgb(181, 210, 236);
     width: 50vw;
     
 }
+
+.celeste {
+    background-color: aqua;
+    width: 35vw;
+    height: 45vh;;
+}
+
+.bianca {
+    display: flex;
+    background-color: white;
+    width: 100vw;
+    height: 60vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.grigia {
+
+    display: flex;
+    background-color: rgb(152, 152, 152);
+    width: 100vw;
+    height: 60vh;
+    align-items: center;
+    justify-content: center;
+
+}
