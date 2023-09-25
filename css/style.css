@@ -104,3 +104,8 @@ background-color: rgb(181, 210, 236);
 .dashed {
     border:dashed 2px black ; 
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
