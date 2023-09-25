@@ -109,3 +109,64 @@ a {
     text-decoration: none;
     color: black;
 }
+
+footer {
+
+    display: flex; 
+flex-direction: column;  
+background-color: rgb(108, 110, 112);
+
+}
+
+.altafooter {
+    display: flex;
+    width: 100vw;
+    height: 60vh;
+    margin-bottom: 0.3em;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(24, 25, 26);
+}
+
+.bassafooter {
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    margin-bottom: 0.3em;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: rgb(24, 25, 26);
+}
+
+.magenta {
+    background-color: rgb(255, 166, 243);
+    width: 13vw;
+    height: 45vh;;
+}
+
+.azule {
+    background-color: rgb(67, 236, 255);
+    width: 10vw;
+    height: 45vh;
+    border: dashed 2px white;
+}
+
+.azulecontainer {
+    display:flex
+}
+
+.flexcontainer3 {
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    height: 3em;
+    background-color: rgb(0, 132, 255);
+    
+    align-items: center; 
+}
+
+.tasto {
+    border: dashed 1px black;
+    background-color: plum;
+    padding: 0 1em;
+}
