@@ -22,7 +22,7 @@
     display: flex;
     background-color: blue;
     width: 100vw;
-    height: 60vh;
+    height: 50vh;
     margin-bottom: 0.3em;
     justify-content: center;
     align-items: center;
@@ -45,7 +45,7 @@ background-color: rgb(181, 210, 236);
 
 .pink {
     background-color:palevioletred;
-    height: 45vh;
+    height: 35vh;
     width: 50vw;
     
 }
@@ -53,14 +53,14 @@ background-color: rgb(181, 210, 236);
 .celeste {
     background-color: aqua;
     width: 35vw;
-    height: 45vh;;
+    height: 35vh;;
 }
 
 .bianca {
     display: flex;
     background-color: white;
     width: 100vw;
-    height: 60vh;
+    height: 50vh;
     align-items: center;
     justify-content: center;
 }
@@ -70,7 +70,7 @@ background-color: rgb(181, 210, 236);
     display: flex;
     background-color: rgb(152, 152, 152);
     width: 100vw;
-    height: 60vh;
+    height: 50vh;
     align-items: center;
     justify-content: center;
 
@@ -80,7 +80,7 @@ background-color: rgb(181, 210, 236);
 
     background-color: rgb(255, 166, 243);
     width: 15vw;
-    height: 45vh;;
+    height: 35vh;;
 
 }
 
@@ -89,7 +89,7 @@ background-color: rgb(181, 210, 236);
     display: flex;
     background-color: rgb(152, 152, 152);
     width: 100vw;
-    height: 90vh;
+    height: 80vh;
     align-items: center;
     justify-content: center;
 
@@ -98,7 +98,7 @@ background-color: rgb(181, 210, 236);
 .verde {
     background-color: rgb(23, 196, 23);
     width: 70vw;
-    height: 80vh;;
+    height: 70vh;;
 }
 
 .dashed {
@@ -121,7 +121,7 @@ background-color: rgb(108, 110, 112);
 .altafooter {
     display: flex;
     width: 100vw;
-    height: 60vh;
+    height: 50vh;
     margin-bottom: 0.3em;
     justify-content: center;
     align-items: center;
@@ -141,13 +141,13 @@ background-color: rgb(108, 110, 112);
 .magenta {
     background-color: rgb(255, 166, 243);
     width: 13vw;
-    height: 45vh;;
+    height: 35vh;;
 }
 
 .azule {
     background-color: rgb(67, 236, 255);
     width: 10vw;
-    height: 45vh;
+    height: 35vh;
     border: dashed 2px white;
 }
 
