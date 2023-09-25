@@ -5,22 +5,47 @@
 
 }
 
-.container {
-    background-color: rgb(215, 250, 249);
-    height: 4em;
+.flexcontainer1 {
     display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    height: 2em;
+    background-color: orange;
+    margin: 1em auto;
     align-items: center;
-    align-content: center;
+    border:dashed 2px black ;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.flexcontainer2 {
+    display: flex;
+    background-color: blue;
+    width: 100vw;
+    height: 60vh;
+    margin-bottom: 0.3em;
     justify-content: center;
-    
+    align-items: center;
+}
+
+nav {
+    width: 40vw;
+    height: 2em;
+    padding: 0.3em;
+    text-align: center;
+    border: dashed 2px black;
 }
 
 header {
-    display: flex;
-    justify-content: space-around;
-    width: 80vw;
-    align-items: center;
-    align-content: flex-end;
-    background-color: orange;
+display: flex; 
+flex-direction: column;  
+background-color: rgb(181, 210, 236);
+}
+
+
+.pink {
+    background-color:palevioletred;
+    height: 45vh;
+    width: 50vw;
     
 }
